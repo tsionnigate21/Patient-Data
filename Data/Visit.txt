@@ -1,0 +1,85 @@
+"1450","13272",10/26/2020 0:00:00,"Influenza",1
+"1451","13309",10/26/2020 0:00:00,"Laceration of left hand",1
+"1453","13260",10/27/2020 0:00:00,"Annual wellness visit - dermatitis",0
+"1458","13296",10/29/2020 0:00:00,"Fracture of right tibia",1
+"1459","13276",11/3/2020 0:00:00,"Asthma",0
+"1461","13250",11/3/2020 0:00:00,"Dermatitis",1
+"1462","13254",11/4/2020 0:00:00,"Annual wellness visit",0
+"1464","13276",11/10/2020 0:00:00,"Osteoarthritis",0
+"1465","13287",11/10/2020 0:00:00,"Influenza",1
+"1467","13306",11/11/2020 0:00:00,"Influenza",1
+"1471","13269",11/16/2020 0:00:00,"Hypertension",0
+"1472","13251",11/16/2020 0:00:00,"Dermatitis",1
+"1473","13299",11/17/2020 0:00:00,"Pneumonia",1
+"1478","13270",11/23/2020 0:00:00,"Influenza",0
+"1480","13276",11/24/2020 0:00:00,"Annual wellness visit",0
+"1483","13264",12/1/2020 0:00:00,"Influenza",1
+"1485","13266",12/8/2020 0:00:00,"COPD management visit",0
+"1486","13296",12/14/2020 0:00:00,"Cast removal",0
+"1487","13262",12/15/2020 0:00:00,"Annual wellness visit",0
+"1490","13269",12/18/2020 0:00:00,"Hypertension monitoring",0
+"1492","13308",12/21/2020 0:00:00,"COPD management visit",0
+"1493","13311",12/21/2020 0:00:00,"Influenza",1
+"1495","13310",12/23/2020 0:00:00,"Rhinitis",1
+"1496","13261",12/23/2020 0:00:00,"Cardiac monitoring",0
+"1498","13263",12/23/2020 0:00:00,"Fracture of left fifth metacarpal",1
+"1499","13264",12/28/2020 0:00:00,"Hypotension",0
+"1503","13302",12/29/2020 0:00:00,"Annual wellness visit",0
+"1506","13310",1/5/2021 0:00:00,"Rhinitis follow-up",0
+"1508","13305",1/7/2021 0:00:00,"Viral upper respiratory infection",1
+"1509","13273",1/7/2021 0:00:00,"Annual wellness visit",1
+"1511","13285",1/7/2021 0:00:00,"Dermatitis",0
+"1513","13255",1/8/2021 0:00:00,"Annual wellness visit",0
+"1514","13294",1/8/2021 0:00:00,"Viral upper respiratory infection",1
+"1517","13283",1/11/2021 0:00:00,"Bronchitis",1
+"1520","13267",1/15/2021 0:00:00,"Annual wellness visit",0
+"1521","13280",1/15/2021 0:00:00,"Osteoarthritis",1
+"1524","13292",1/19/2021 0:00:00,"UTI",1
+"1528","13285",1/25/2021 0:00:00,"Annual wellness visit",0
+"1529","13270",1/25/2021 0:00:00,"Bronchitis",1
+"1530","13257",1/26/2021 0:00:00,"Diabetes mellitis type 2 checkup",0
+"1531","13277",1/26/2021 0:00:00,"UTI",1
+"1533","13291",1/26/2021 0:00:00,"Annual wellness visit",1
+"1536","13307",1/28/2021 0:00:00,"Hypotension",1
+"1538","13289",1/29/2021 0:00:00,"Annual wellness visit",0
+"1541","13280",2/2/2021 0:00:00,"Osteoarthritis",0
+"1544","13300",2/4/2021 0:00:00,"Migraine",1
+"1546","13270",2/8/2021 0:00:00,"Bronchitis follow-up",0
+"1548","13301",2/10/2021 0:00:00,"Hypothyroidism",0
+"1549","13263",2/10/2021 0:00:00,"Cast removal",0
+"1551","13307",2/11/2021 0:00:00,"Hypotension monitoring",0
+"1553","13297",2/16/2021 0:00:00,"Annual wellness visit",0
+"1554","13260",2/16/2021 0:00:00,"Dermatitis follow-up",0
+"1557","13272",2/18/2021 0:00:00,"Annual wellness visit",0
+"1558","13308",2/18/2021 0:00:00,"COPD management visit",0
+"1561","13310",2/22/2021 0:00:00,"Dermatitis",1
+"1563","13307",2/24/2021 0:00:00,"Hypotension monitoring",0
+"1565","13290",2/24/2021 0:00:00,"Laceration of right calf",1
+"1567","13283",2/26/2021 0:00:00,"Annual wellness visit",0
+"1568","13281",3/1/2021 0:00:00,"UTI",1
+"1570","13285",3/5/2021 0:00:00,"Hypertension monitoring",0
+"1571","13300",3/8/2021 0:00:00,"Migraine follow-up",0
+"1573","13310",3/8/2021 0:00:00,"Dermatitis follow-up",0
+"1575","13290",3/10/2021 0:00:00,"Laceration follow-up",0
+"1576","13301",3/10/2021 0:00:00,"Hypothyroidism follow-up",0
+"1582","13281",3/15/2021 0:00:00,"UTI follow-up",0
+"1585","13252",3/17/2021 0:00:00,"Annual wellness visit",0
+"1586","13275",3/19/2021 0:00:00,"Abrasion of right forearm",1
+"1588","13268",3/19/2021 0:00:00,"Cyst removal",1
+"1590","13256",3/19/2021 0:00:00,"Spotted fever rickettsiosis",1
+"1593","13259",3/22/2021 0:00:00,"Allergic reaction",1
+"1595","13275",3/24/2021 0:00:00,"Wound care for right forearm abrasion",0
+"1596","13299",3/24/2021 0:00:00,"Pneumonia",1
+"1598","13257",3/25/2021 0:00:00,"Diabetes mellitis type 2 checkup",0
+"1602","13307",3/26/2021 0:00:00,"Hypotension monitoring",0
+"1603","13286",3/26/2021 0:00:00,"Laceration of right foot",1
+"1605","13268",3/26/2021 0:00:00,"Cyst removal follow-up",0
+"1606","13256",3/26/2021 0:00:00,"Spotted fever rickettsiosis follow-up",0
+"1608","13293",3/29/2021 0:00:00,"Irritable bowel syndrome",1
+"1610","13284",3/30/2021 0:00:00,"Injury to right hand",1
+"1611","13279",3/30/2021 0:00:00,"Annual wellness visit",0
+"1613","13271",3/31/2021 0:00:00,"Viral upper respiratory infection",1
+"1615","13308",4/1/2021 0:00:00,"COPD management visit",0
+"1618","13301",4/2/2021 0:00:00,"Hypothyroidism follow-up",0
+"1621","13286",4/2/2021 0:00:00,"Removal of sutures from right foot",0
+"1623","13259",4/5/2021 0:00:00,"Allergic reaction follow-up",0
